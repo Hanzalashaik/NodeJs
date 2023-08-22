@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hello World",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanzalashaik/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "github"
+  ],
+  "author": "Hanzala Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanzalashaik/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Hanzalashaik/NodeJs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
