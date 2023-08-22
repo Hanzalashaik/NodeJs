@@ -1,0 +1,23 @@
+{
+  "name": "mobileshop",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "mobile buying platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "redmi",
+    "samsung",
+    "iphone",
+    "oppo",
+    "poco"
+  ],
+  "author": "Hanzala Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
