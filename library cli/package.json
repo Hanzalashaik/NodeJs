@@ -1,0 +1,17 @@
+{
+  "name": "library-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "aap.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
